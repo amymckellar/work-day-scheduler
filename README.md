@@ -41,6 +41,9 @@ THEN the saved events persist
 
 # Description
 
+![work day schedule screenshot](https://user-images.githubusercontent.com/115676110/204646119-c065405b-1e58-46ba-a026-b158c52befa4.png)
+
+
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 # work-day-schedule
