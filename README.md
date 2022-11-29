@@ -34,7 +34,7 @@ THEN the saved events persist
 
 # Websites
 
-- Github:
+- Github: https://github.com/amymckellar/work-day-scheduler
 - Deployed Link: https://amymckellar.github.io/work-day-scheduler/
 
 ---
